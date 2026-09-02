@@ -5,8 +5,8 @@ The project applies SetFit-based few-shot learning to classify sentiment from 2,
 ```
 
 ### Objectives
-```
-Analyze public sentiment toward medical tourism across different service-related aspects.
-Develop aspect-specific sentiment classification models using few-shot learning.
-Evaluate model performance for each aspect.
-```
+- Analyze public sentiment toward medical tourism across different service-related aspects.
+- Develop aspect-specific sentiment classification models using few-shot learning.
+- Evaluate model performance for each aspect.
+
+
